@@ -1,0 +1,6 @@
+C:\Users\student\Desktop\программы\StaticShop\StaticShop\obj\Debug\net7.0-windows\LoginWind.g.cs
+C:\Users\student\Desktop\программы\StaticShop\StaticShop\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\student\Desktop\программы\StaticShop\StaticShop\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\student\Desktop\программы\StaticShop\StaticShop\obj\Debug\net7.0-windows\StaticShop_MarkupCompile.cache
+C:\Users\student\Desktop\программы\StaticShop\StaticShop\obj\Debug\net7.0-windows\StaticShop_MarkupCompile.lref
+C:\Users\student\Desktop\программы\StaticShop\StaticShop\obj\Debug\net7.0-windows\RegisterWind.g.cs

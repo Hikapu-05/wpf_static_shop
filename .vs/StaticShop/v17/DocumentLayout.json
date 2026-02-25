@@ -1,0 +1,202 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\student\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B\\StaticShop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{41441D99-1947-40F1-8B60-1DA1F776AA04}|StaticShop.0.2\\StaticShop.0.2.csproj|c:\\users\\student\\desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B\\staticshop\\staticshop.0.2\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{41441D99-1947-40F1-8B60-1DA1F776AA04}|StaticShop.0.2\\StaticShop.0.2.csproj|solutionrelative:staticshop.0.2\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41441D99-1947-40F1-8B60-1DA1F776AA04}|StaticShop.0.2\\StaticShop.0.2.csproj|c:\\users\\student\\desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B\\staticshop\\staticshop.0.2\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41441D99-1947-40F1-8B60-1DA1F776AA04}|StaticShop.0.2\\StaticShop.0.2.csproj|solutionrelative:staticshop.0.2\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41441D99-1947-40F1-8B60-1DA1F776AA04}|StaticShop.0.2\\StaticShop.0.2.csproj|c:\\users\\student\\desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B\\staticshop\\staticshop.0.2\\registerwind.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{41441D99-1947-40F1-8B60-1DA1F776AA04}|StaticShop.0.2\\StaticShop.0.2.csproj|solutionrelative:staticshop.0.2\\registerwind.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41441D99-1947-40F1-8B60-1DA1F776AA04}|StaticShop.0.2\\StaticShop.0.2.csproj|c:\\users\\student\\desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B\\staticshop\\staticshop.0.2\\loginwind.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41441D99-1947-40F1-8B60-1DA1F776AA04}|StaticShop.0.2\\StaticShop.0.2.csproj|solutionrelative:staticshop.0.2\\loginwind.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41441D99-1947-40F1-8B60-1DA1F776AA04}|StaticShop.0.2\\StaticShop.0.2.csproj|c:\\users\\student\\desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B\\staticshop\\staticshop.0.2\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41441D99-1947-40F1-8B60-1DA1F776AA04}|StaticShop.0.2\\StaticShop.0.2.csproj|solutionrelative:staticshop.0.2\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41441D99-1947-40F1-8B60-1DA1F776AA04}|StaticShop.0.2\\StaticShop.0.2.csproj|c:\\users\\student\\desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B\\staticshop\\staticshop.0.2\\registerwind.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41441D99-1947-40F1-8B60-1DA1F776AA04}|StaticShop.0.2\\StaticShop.0.2.csproj|solutionrelative:staticshop.0.2\\registerwind.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41441D99-1947-40F1-8B60-1DA1F776AA04}|StaticShop.0.2\\StaticShop.0.2.csproj|c:\\users\\student\\desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B\\staticshop\\staticshop.0.2\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41441D99-1947-40F1-8B60-1DA1F776AA04}|StaticShop.0.2\\StaticShop.0.2.csproj|solutionrelative:staticshop.0.2\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41441D99-1947-40F1-8B60-1DA1F776AA04}|StaticShop.0.2\\StaticShop.0.2.csproj|c:\\users\\student\\desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B\\staticshop\\staticshop.0.2\\loginwind.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{41441D99-1947-40F1-8B60-1DA1F776AA04}|StaticShop.0.2\\StaticShop.0.2.csproj|solutionrelative:staticshop.0.2\\loginwind.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41441D99-1947-40F1-8B60-1DA1F776AA04}|StaticShop.0.2\\StaticShop.0.2.csproj|c:\\users\\student\\desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B\\staticshop\\staticshop.0.2\\forgotpassword.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41441D99-1947-40F1-8B60-1DA1F776AA04}|StaticShop.0.2\\StaticShop.0.2.csproj|solutionrelative:staticshop.0.2\\forgotpassword.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41441D99-1947-40F1-8B60-1DA1F776AA04}|StaticShop.0.2\\StaticShop.0.2.csproj|c:\\users\\student\\desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B\\staticshop\\staticshop.0.2\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{41441D99-1947-40F1-8B60-1DA1F776AA04}|StaticShop.0.2\\StaticShop.0.2.csproj|solutionrelative:staticshop.0.2\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41441D99-1947-40F1-8B60-1DA1F776AA04}|StaticShop.0.2\\StaticShop.0.2.csproj|c:\\users\\student\\desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B\\staticshop\\staticshop.0.2\\forgotpassword.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{41441D99-1947-40F1-8B60-1DA1F776AA04}|StaticShop.0.2\\StaticShop.0.2.csproj|solutionrelative:staticshop.0.2\\forgotpassword.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\student\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B\\StaticShop\\StaticShop.0.2\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "StaticShop.0.2\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\student\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B\\StaticShop\\StaticShop.0.2\\MainWindow.xaml.cs",
+              "RelativeToolTip": "StaticShop.0.2\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAEYBAAAAAAAAAAAAAFkBAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T15:51:32.818Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\student\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B\\StaticShop\\StaticShop.0.2\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "StaticShop.0.2\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\student\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B\\StaticShop\\StaticShop.0.2\\MainWindow.xaml",
+              "RelativeToolTip": "StaticShop.0.2\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-02-11T14:40:47.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\student\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B\\StaticShop\\StaticShop.0.2\\Models\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "StaticShop.0.2\\Models\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\student\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B\\StaticShop\\StaticShop.0.2\\Models\\AppDbContext.cs",
+              "RelativeToolTip": "StaticShop.0.2\\Models\\AppDbContext.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAIA6wCEAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T16:56:16.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CartItem.cs",
+              "DocumentMoniker": "C:\\Users\\student\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B\\StaticShop\\StaticShop.0.2\\Models\\CartItem.cs",
+              "RelativeDocumentMoniker": "StaticShop.0.2\\Models\\CartItem.cs",
+              "ToolTip": "C:\\Users\\student\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B\\StaticShop\\StaticShop.0.2\\Models\\CartItem.cs",
+              "RelativeToolTip": "StaticShop.0.2\\Models\\CartItem.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAB4AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T16:47:10.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LoginWind.xaml",
+              "DocumentMoniker": "C:\\Users\\student\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B\\StaticShop\\StaticShop.0.2\\LoginWind.xaml",
+              "RelativeDocumentMoniker": "StaticShop.0.2\\LoginWind.xaml",
+              "ToolTip": "C:\\Users\\student\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B\\StaticShop\\StaticShop.0.2\\LoginWind.xaml",
+              "RelativeToolTip": "StaticShop.0.2\\LoginWind.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-01-30T16:28:32.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ForgotPassword.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\student\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B\\StaticShop\\StaticShop.0.2\\ForgotPassword.xaml.cs",
+              "RelativeDocumentMoniker": "StaticShop.0.2\\ForgotPassword.xaml.cs",
+              "ToolTip": "C:\\Users\\student\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B\\StaticShop\\StaticShop.0.2\\ForgotPassword.xaml.cs",
+              "RelativeToolTip": "StaticShop.0.2\\ForgotPassword.xaml.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAADgAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T16:07:42.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginWind.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\student\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B\\StaticShop\\StaticShop.0.2\\LoginWind.xaml.cs",
+              "RelativeDocumentMoniker": "StaticShop.0.2\\LoginWind.xaml.cs",
+              "ToolTip": "C:\\Users\\student\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B\\StaticShop\\StaticShop.0.2\\LoginWind.xaml.cs",
+              "RelativeToolTip": "StaticShop.0.2\\LoginWind.xaml.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAE0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T16:53:15.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ForgotPassword.xaml",
+              "DocumentMoniker": "C:\\Users\\student\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B\\StaticShop\\StaticShop.0.2\\ForgotPassword.xaml",
+              "RelativeDocumentMoniker": "StaticShop.0.2\\ForgotPassword.xaml",
+              "ToolTip": "C:\\Users\\student\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B\\StaticShop\\StaticShop.0.2\\ForgotPassword.xaml",
+              "RelativeToolTip": "StaticShop.0.2\\ForgotPassword.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-01-30T15:31:33.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RegisterWind.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\student\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B\\StaticShop\\StaticShop.0.2\\RegisterWind.xaml.cs",
+              "RelativeDocumentMoniker": "StaticShop.0.2\\RegisterWind.xaml.cs",
+              "ToolTip": "C:\\Users\\student\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B\\StaticShop\\StaticShop.0.2\\RegisterWind.xaml.cs",
+              "RelativeToolTip": "StaticShop.0.2\\RegisterWind.xaml.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAcwDUAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T17:22:34.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RegisterWind.xaml",
+              "DocumentMoniker": "C:\\Users\\student\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B\\StaticShop\\StaticShop.0.2\\RegisterWind.xaml",
+              "RelativeDocumentMoniker": "StaticShop.0.2\\RegisterWind.xaml",
+              "ToolTip": "C:\\Users\\student\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B\\StaticShop\\StaticShop.0.2\\RegisterWind.xaml",
+              "RelativeToolTip": "StaticShop.0.2\\RegisterWind.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-01-30T16:27:09.531Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\student\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B\\StaticShop\\StaticShop.0.2\\App.xaml",
+              "RelativeDocumentMoniker": "StaticShop.0.2\\App.xaml",
+              "ToolTip": "C:\\Users\\student\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B\\StaticShop\\StaticShop.0.2\\App.xaml",
+              "RelativeToolTip": "StaticShop.0.2\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-01-28T16:39:36.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

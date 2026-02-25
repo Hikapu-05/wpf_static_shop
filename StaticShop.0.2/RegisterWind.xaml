@@ -1,0 +1,83 @@
+﻿<Window x:Class="StaticShop._0._2.RegisterWind"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:StaticShop._0._2"
+        mc:Ignorable="d"
+        Title="RegisterWind" Height="450" Width="800" Background="{DynamicResource GradientFon}">
+    <Window.Resources>
+        <LinearGradientBrush x:Key="GradientFon" StartPoint="0.5,1" EndPoint="1,0.5">
+            <GradientStop Color="#e39827ec" Offset="0.0"/>
+            <GradientStop Color="#b341fa" Offset="0.1"/>
+            <GradientStop Color="#b973ff" Offset="0.25"/>
+            <GradientStop Color="#ffa673" Offset="0.5"/>
+            <GradientStop Color="#de6c1b" Offset="0.75"/>
+            <GradientStop Color="#f77314" Offset="1.0"/>
+        </LinearGradientBrush>
+
+        <LinearGradientBrush x:Key="Gradient" StartPoint="0,0" EndPoint="1,0">
+            <GradientStop Color="DarkViolet" Offset="0.0"/>
+            <GradientStop Color="Violet" Offset="1.0"/>
+        </LinearGradientBrush>
+
+        <Style x:Key ="BtnStyle" TargetType="Button">
+            <Setter Property="Foreground" Value="White"/>
+            <Setter Property="VerticalContentAlignment" Value="Center"/>
+            <Setter Property="HorizontalContentAlignment" Value="Center"/>
+            <Setter Property="Background" Value="{StaticResource Gradient}"/>
+
+
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="Button">
+                        <Border x:Name="Border" Background ="{StaticResource Gradient}" BorderBrush="Violet" CornerRadius="15">
+                            <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                        </Border>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+
+    </Window.Resources>
+    <Grid>
+        <Border Width="265" Height="380" Background="Snow" CornerRadius="15" >
+            <StackPanel>
+                <TextBlock Text="Register" FontSize="32" FontFamily="COMIC SANS MS" FontWeight="Bold" Foreground="Black" HorizontalAlignment="Center" Margin="7" TextAlignment="Center" TextWrapping="Wrap"/>
+
+                <TextBlock Text="UserName" FontSize="18" FontFamily="COMIC SANS MS" FontWeight="Bold" Foreground="Black" HorizontalAlignment="Left" Margin="5" TextAlignment="Center" TextWrapping="Wrap"/>
+                <TextBox x:Name="Username"  Foreground="Black" Background="Snow" Height="20" Margin="5" FontSize="16"  BorderBrush="Gray" BorderThickness="0,0,0,1" TextAlignment="Center" TextWrapping="Wrap" >
+                   
+                </TextBox>
+
+                <TextBlock Text="Password" FontSize="18" FontFamily="COMIC SANS MS" FontWeight="Bold" Foreground="Black" HorizontalAlignment="Left" Margin="5" TextAlignment="Center" TextWrapping="Wrap"/>
+                <TextBox x:Name="RegisterPass"  Foreground="Black" Background="Snow" Height="20" Margin="5" FontSize="16"  BorderBrush="Gray" BorderThickness="0,0,0,1" TextAlignment="Center" TextWrapping="Wrap" >
+            
+                </TextBox>
+
+                <TextBlock Text="Repeat password" FontSize="18" FontFamily="COMIC SANS MS" FontWeight="Bold" Foreground="Black" HorizontalAlignment="Left" Margin="5" TextAlignment="Center" TextWrapping="Wrap"/>
+                <TextBox x:Name="RerRegPass"  Foreground="Black" Background="Snow" Height="20" Margin="5" FontSize="16"  BorderBrush="Gray" BorderThickness="0,0,0,1" TextAlignment="Center" TextWrapping="Wrap">
+              
+                </TextBox>
+
+
+                <Button Content="Create account" Width="150" Height="32" Margin="40,40,40,0" Style="{StaticResource BtnStyle}" FontSize="15" FontFamily="COMIC SANS MS" Click="Button_Click_1">
+                    <Button.Effect>
+                        <DropShadowEffect ShadowDepth="2" BlurRadius="10" />
+                    </Button.Effect>
+                </Button>
+                <WrapPanel Margin="0.22">
+                    <Button Content="Are you member?" FontFamily="COMIC SANS MS" Width="99" Foreground="Gray" Background="Snow" Margin="5,22" HorizontalContentAlignment="Left" HorizontalAlignment="Left" BorderBrush="Snow" IsEnabled="False" BorderThickness="0,0,0,0"/>
+                    <Button Content="LogIn" FontFamily="COMIC SANS MS" Height="25" Foreground="Blue" Background="Snow" BorderBrush="Snow" Width="70" Click="Button_Click"/>
+                </WrapPanel>
+
+
+
+            </StackPanel>   
+            <Border.Effect>
+                <DropShadowEffect ShadowDepth="15" BlurRadius="35"/>
+            </Border.Effect>
+         
+        </Border>
+    </Grid>
+</Window>

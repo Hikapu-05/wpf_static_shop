@@ -1,0 +1,90 @@
+﻿<Window x:Class="StaticShop._0._2.LoginWind"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:StaticShop._0._2"
+        mc:Ignorable="d"
+        Title="LoginWind" Height="450" Width="800" Background="{DynamicResource GradientFon}">
+    <Window.Resources>
+        <LinearGradientBrush x:Key="GradientFon" StartPoint="0.5,1" EndPoint="1,0.5">
+            <GradientStop Color="#e39827ec" Offset="0.0"/>
+            <GradientStop Color="#b341fa" Offset="0.1"/>
+            <GradientStop Color="#b973ff" Offset="0.25"/>
+            <GradientStop Color="#ffa673" Offset="0.5"/>
+            <GradientStop Color="#de6c1b" Offset="0.75"/>
+            <GradientStop Color="#f77314" Offset="1.0"/>
+        </LinearGradientBrush>
+
+        <LinearGradientBrush x:Key="Gradient" StartPoint="0,0" EndPoint="1,0">
+            <GradientStop Color="DarkViolet" Offset="0.0"/>
+            <GradientStop Color="Violet" Offset="1.0"/>
+        </LinearGradientBrush>
+
+        <Style x:Key ="BtnStyle" TargetType="Button">
+            <Setter Property="Foreground" Value="White"/>
+            <Setter Property="VerticalContentAlignment" Value="Center"/>
+            <Setter Property="HorizontalContentAlignment" Value="Center"/>
+            <Setter Property="Background" Value="{StaticResource Gradient}"/>
+
+
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="Button">
+                        <Border x:Name="Border" Background ="{StaticResource Gradient}" BorderBrush="Violet" CornerRadius="15">
+                            <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                        </Border>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+
+    </Window.Resources>
+    <Grid>
+        <Border Width="265" Height="380" Background="Snow" CornerRadius="15">
+            <StackPanel>
+                <TextBlock Text="Login" FontSize="42" FontFamily="COMIC SANS MS" FontWeight="Bold" Foreground="Black" HorizontalAlignment="Center" Margin="7" TextAlignment="Center" TextWrapping="Wrap"/>
+                <TextBlock Text="UserName" FontSize="18" FontFamily="COMIC SANS MS" FontWeight="Bold" Foreground="Black" HorizontalAlignment="Left" Margin="5" TextAlignment="Center" TextWrapping="Wrap"/>
+                <TextBox x:Name="Username"  Foreground="Black" Background="Snow"  Height="28" Margin="5,0,35,0" FontSize="16"  BorderBrush="Gray" BorderThickness="0,0,0,1" TextAlignment="Center" TextWrapping="Wrap"  />
+                <TextBlock Text="Password" FontSize="18" FontFamily="COMIC SANS MS" FontWeight="Bold" Foreground="Black" HorizontalAlignment="Left" Margin="5" TextAlignment="Center" TextWrapping="Wrap"/>
+                <!--<TextBox  Foreground="Black" Background="Snow" Height="28" Margin="5" FontSize="16"  BorderBrush="Gray" BorderThickness="0,0,0,1" TextAlignment="Center" TextWrapping="Wrap">
+                    <TextBox.Effect>
+                        <DropShadowEffect BlurRadius="10" ShadowDepth="5" Color="Gray" />
+                    </TextBox.Effect>
+                </TextBox>-->
+                <Grid Margin="7">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="15*"/>
+                        <ColumnDefinition Width="2*"/>
+                    </Grid.ColumnDefinitions>
+                    
+                    <TextBox x:Name="PasswordText" Grid.Column="0" Foreground="Black" Background="Snow" Height="28" Margin="5" FontSize="16"  BorderBrush="Gray" BorderThickness="0,0,0,1" TextAlignment="Center" TextWrapping="Wrap"/>
+                    <PasswordBox x:Name="PasswordScript" Grid.Column="0" Foreground="Black" Background="Snow" Height="28" Margin="0,5" FontSize="16"  BorderBrush="Gray" BorderThickness="0,0,0,1" PasswordChar="*" HorizontalContentAlignment="Center">
+                     
+                    </PasswordBox>
+                    <Button Grid.Column="1" Height="30" Background="Snow" BorderThickness="0,0,0,0" Click="Button_Click_1">
+                        <Grid>
+                            <Image Source="C:\Users\student\Documents\ROBLOX\севас\gta5\3917112.png" HorizontalAlignment="Left" Width="28"/>
+                        </Grid>
+                 
+                    </Button>
+                </Grid>
+                <Button Content="Forgot the pssword?" FontFamily="COMIC SANS MS" Width="170" Foreground="Gray" Background="Snow" Margin="5" HorizontalContentAlignment="Left" HorizontalAlignment="Left" BorderBrush="Snow" Click="Button_Click_2"/>
+                <Button Content="Login" Width="120" Height="30" Margin="40,30,40,0" Style="{StaticResource BtnStyle}" Click="Button_Click_3">
+                    <Button.Effect>
+                        <DropShadowEffect ShadowDepth="2" BlurRadius="10"/>
+                    </Button.Effect>
+                </Button>
+                <WrapPanel Margin="0.22">
+                    <Button Content="Not a member?" FontFamily="COMIC SANS MS" Width="95" Foreground="Gray" Background="Snow" Margin="5,22" HorizontalContentAlignment="Left" HorizontalAlignment="Left" BorderBrush="Snow" IsEnabled="False" BorderThickness="0,0,0,0"/>
+                    <Button Content="SignUp" FontFamily="COMIC SANS MS" Height="25" Foreground="Blue" Background="Snow" BorderBrush="Snow" Width="70" Click="Button_Click"/>
+                </WrapPanel>
+
+
+            </StackPanel>
+            <Border.Effect>
+                <DropShadowEffect ShadowDepth="15" BlurRadius="35"/>
+            </Border.Effect>
+        </Border>
+    </Grid>
+</Window>
